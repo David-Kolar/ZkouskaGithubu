@@ -1,3 +1,3 @@
 # README
 
-Toto je soubor nahrany na GitHub.
+Toto je soubor nahraný na GitHub.
